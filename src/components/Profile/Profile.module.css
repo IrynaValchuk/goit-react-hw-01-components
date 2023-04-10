@@ -8,7 +8,7 @@
   border-radius: 5px;
 }
 
-.description{
+.description {
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -17,7 +17,7 @@
   background-color: var(--color-white);
 }
 
-.avatar{
+.avatar {
   width: 100px;
   height: 100px;
   padding: 10px;
@@ -29,15 +29,15 @@
   font-weight: 700;
 }
 
-.tag{
+.tag {
   color: var(--color-gray);
 }
 
-.location{
+.location {
   color: var(--color-gray);
 }
 
-.stats{
+.stats {
   display: flex;
   background-color: var(--bgc-gray);
 }
@@ -53,10 +53,10 @@
   border: 0.5px solid var(--border-color-gray);
 }
 
-.label{
+.label {
   color: var(--color-gray);
 }
 
-.quantity{
+.quantity {
   font-weight: 700;
 }

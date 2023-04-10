@@ -6,7 +6,7 @@
   background-color: var(--color-white);
   box-shadow: 0px 1px 5px 0.1px var(--color-gray);
   border-radius: 5px;
-  transition: scale .25s ease-in-out;
+  transition: scale 0.25s ease-in-out;
 }
 
 .item:hover {

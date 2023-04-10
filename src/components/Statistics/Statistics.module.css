@@ -14,15 +14,14 @@
   text-align: center;
   text-transform: uppercase;
   color: var(--color-gray);
-  
 }
 
-.statList{
+.statList {
   width: 100%;
   display: flex;
 }
 
-.item{
+.item {
   width: 100%;
   padding: 10px;
   display: flex;
@@ -31,11 +30,11 @@
   gap: 5px;
 }
 
-.label{
-color: var(--color-white);
+.label {
+  color: var(--color-white);
 }
 
-.percentage{
+.percentage {
   font-size: 20px;
   color: var(--color-white);
 }
