@@ -15,6 +15,7 @@ code {
 }
 
 :root {
+  --bg-root: #e6f8d7;
   --color-gray: #757575;
   --color-white: #fff;
   --bgc-gray: rgb(240, 240, 240);
