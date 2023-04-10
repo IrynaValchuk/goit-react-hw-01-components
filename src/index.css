@@ -14,6 +14,14 @@ code {
     monospace;
 }
 
+:root {
+  --color-gray: #757575;
+  --color-white: #fff;
+  --bgc-gray: rgb(240, 240, 240);
+  --border-color-gray: #a5a5a7;
+  --table-th-color: #8ed6ec;
+}
+
 h1,
 h2,
 h3,
@@ -35,12 +43,4 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
-}
-
-:root {
-  --color-gray: #757575;
-  --color-white: #fff;
-  --bgc-gray: rgb(240, 240, 240);
-  --border-color-gray: #a5a5a7;
-
 }

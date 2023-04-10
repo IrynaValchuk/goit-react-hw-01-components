@@ -1,0 +1,23 @@
+.transactionHistory{
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-collapse: collapse;
+  box-shadow: 0px 1px 5px 0.1px var(--color-gray);
+}
+
+th {
+  padding: 20px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  background-color: var(--table-th-color);
+  border: 1px solid var(--border-color-gray);
+}
+
+td {
+  padding: 20px;
+  text-transform: capitalize;
+  color: var(--color-gray);
+  border: 1px solid var(--border-color-gray);
+}
